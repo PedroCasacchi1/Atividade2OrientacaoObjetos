@@ -1,6 +1,13 @@
-# Introdução a Linguagem de Programação: Orientação a Objetos 
-## Atividade 2
+<center>
+    <h1 align="center">Sistema de Criação de Objetos</h1>
+    <h4 align="center">Trabalho da matéria de Introdução a Linguagem de programação: <strong>Orientação a Objetos</strong> </h4>
+  <p align="center">
+        <strong>Data de Entrega:</strong> 14 Setembro 2023<br>
+        <strong>Valor:</strong> 100 pontos
+    </p> 
+</center>
 
+## Atividade 2
 Defina um tema para desenvolvimento do seu projeto, desde que ele envolva os seguintes conceitos:
 
 - Modificadores.
