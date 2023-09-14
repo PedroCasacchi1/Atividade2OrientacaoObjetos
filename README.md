@@ -2,7 +2,7 @@
     <h1 align="center">Sistema de Criação de Objetos</h1>
     <h4 align="center">Trabalho da matéria de Introdução a Linguagem de programação: <strong>Orientação a Objetos</strong> </h4>
   <p align="center">
-        <strong>Data de Entrega:</strong> 14 Setembro 2023<br>
+        <strong>Data de Entrega:</strong> 15 Setembro 2023<br>
         <strong>Valor:</strong> 100 pontos
     </p> 
 </center>
