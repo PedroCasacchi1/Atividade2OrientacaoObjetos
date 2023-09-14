@@ -1,5 +1,6 @@
-# Atividade2OrientacaoObjetos
-Introdução a Linguagem de Programação: Orientação a Objetos -- Atividade 2
+# Introdução a Linguagem de Programação: Orientação a Objetos 
+## Atividade 2
+
 Defina um tema para desenvolvimento do seu projeto, desde que ele envolva os seguintes conceitos:
 
 - Modificadores.
